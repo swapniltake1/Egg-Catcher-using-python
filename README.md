@@ -24,12 +24,18 @@ Egg Catcher Game using Python
 To create an egg catcher game using Python, we need to use three different loops:
 
 1.One to create new eggs.
+
 2.Another to check if the catcher has caught an egg.
+
 3.And the third loop to move eggs and to check if the eggs touched the ground.
 
+
 We Use three Python modules:
+
 1.itertools: to change the colours of the falling eggs.
+
 2.random: to make the eggs appear at random positions.
+
 3.Tkinter: to animate the game on the screen.
 
 The three looping functions are executed using a timer to ensure that they aren’t executed before the main loop.
