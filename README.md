@@ -1,6 +1,8 @@
 # Egg-Catcher-using-python
 AI Miniproject For SPPU Computer Engineering 6th sem. 
 
+How To Create An Egg Catcher Game using Python?
+
 ScrenShots
 ![image](https://user-images.githubusercontent.com/61576958/182519674-ef1cc4f0-15f4-4789-a619-ab2b4289560f.png)
 
@@ -9,6 +11,8 @@ ScrenShots
 Eggs Catcher is a classic game where the goal is to catch as many eggs as possible. In this game, every egg you catch will increase your score and if you miss 3 eggs you will lose the game
 
 How To Create An Egg Catcher Game using Python?
+
+
 An egg catcher game tests your concentration and the speed of your reflexes as you have to catch eggs falling all around the screen with one basket.
 To create an egg catcher game you have to design an animation of falling eggs at random positions and a basket will be catching all the falling eggs.
 
